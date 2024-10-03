@@ -23,13 +23,17 @@ blog where he talks about different pieces of music, hoping to inspire others an
 who share his passion.
 
 ![image](https://github.com/user-attachments/assets/360b56f3-1175-4581-a23b-a0b8705faffa)
-Jake
+
+Jake 
+
 18 yrs old male from San Jose, California
+
 Jake is a college student majoring in communication, but music has always been his passion. He plays guitar and has been self-teaching himself for over a year using online resources. He also loves composing his own songs and often collaborates with friends.
 He is creative and curious, eager to try and learn new things. But also, he often gets frustrated when things don’t go as planned. His main goal is to create sheet music so that he can share them with others. He wants to improve his composition skills and make his music more accessible to others. Jake finds it difficult to convert their ideas into proper sheet music. He struggles with music notation and feels overwhelmed by the complexity of traditional music notation software. He must also learn how to accurately represent their musical ideas on paper.
 Jake prefers a user-friendly and intuitive app that can simplify the process of turning their tunes into sheet music. He values features that allow for easy editing and playback of their compositions. He is also interested in tools that can help them understand music theory better and apply it to their work.
 
 ![image](https://github.com/user-attachments/assets/671cf34a-bd1f-43e8-9952-f8741a4a88f8)
+
 Jessica is a 47-year-old female music teacher at an elementary school in Sacramento, CA.
 Jessica spends most of her time around kids. Her two loves are kids and music. Jessica is married with two kids. One, Jessy, is interested in playing the piano, while the other, Samuel, is more interested in playing basketball.
 Jessica enjoys teaching music. She hopes to inspire the next generation to appreciate music; she teaches music at an elementary school and does one-on-one lessons to help her students improve their skills. She believes music is one way people can get in touch with their emotions and express them to others.
