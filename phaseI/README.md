@@ -2,7 +2,8 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+Tune-to-Sheets is a software that converts music into sheet music, making it easier for musicians to learn and play their favorite songs
+
 
 ## Methods
 
@@ -11,6 +12,7 @@
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+
 
 ## Conclusions
 
