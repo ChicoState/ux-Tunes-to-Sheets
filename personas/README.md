@@ -41,6 +41,7 @@ Jessica enjoys teaching music. She hopes to inspire the next generation to appre
 Goals:
 
 Help students to enjoy making and learning about music
+
 Find sheet music for contemporary songs that students will enjoy
 
 
