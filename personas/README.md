@@ -39,8 +39,9 @@ Jessica spends most of her time around kids. Her two loves are kids and music. J
 Jessica enjoys teaching music. She hopes to inspire the next generation to appreciate music; she teaches music at an elementary school and does one-on-one lessons to help her students improve their skills. She believes music is one way people can get in touch with their emotions and express them to others.
 
 Goals:
-●	Help students to enjoy making and learning about music
-●	Find sheet music for contemporary songs that students will enjoy
+
+Help students to enjoy making and learning about music
+Find sheet music for contemporary songs that students will enjoy
 
 
 # Scenarios
