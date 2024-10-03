@@ -37,6 +37,7 @@ Jake prefers a user-friendly and intuitive app that can simplify the process of 
 Jessica is a 47-year-old female music teacher at an elementary school in Sacramento, CA.
 Jessica spends most of her time around kids. Her two loves are kids and music. Jessica is married with two kids. One, Jessy, is interested in playing the piano, while the other, Samuel, is more interested in playing basketball.
 Jessica enjoys teaching music. She hopes to inspire the next generation to appreciate music; she teaches music at an elementary school and does one-on-one lessons to help her students improve their skills. She believes music is one way people can get in touch with their emotions and express them to others.
+
 Goals:
 ●	Help students to enjoy making and learning about music
 ●	Find sheet music for contemporary songs that students will enjoy
@@ -47,6 +48,5 @@ Goals:
 Mike, a student at UCLA, is torn between his passion for music and his academic obligations. Despite the pressures of his psychology exam, he finds solace in playing the piano and dreaming of blending psychology with music. Balancing his passions becomes increasingly challenging as his exam date approaches, but seeking advice from his psychology professor gives him a renewed sense of purpose. With a newfound perspective, Mike learns to manage his time better, set achievable goals for his music blog and practice, and organize performances that blend his academic and musical worlds. He realizes that finding harmony between his passions helps him excel in his studies and deepens his connection to music, giving him a clearer vision of how he can make a meaningful impact in the world.
 
 Jake decides to give the museScore app a try to help with his frustration over music notation. He’s impressed by the app’s user-friendly interface and intuitive features. After inputting a few of his guitar riffs, he quickly creates a basic sheet music version of his composition. He is thrilled to see his ideas represented on paper and appreciates the app’s playback feature, which helps him refine his work. This positive experience boosts his confidence and encourages him to use the app regularly.
-
 
 Jessica focuses on introducing her students to music that captivates their interest and enhances their learning experience. Each week, she selects popular and age-appropriate songs, using tablets or computers to find and print accessible sheet music. By playing short clips of potential songs and involving students in the decision-making process, Jessica ensures they are excited about the material. This approach not only makes learning fun but also helps students appreciate the relevance of contemporary music while developing their musical skills.
