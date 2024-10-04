@@ -35,8 +35,8 @@ The heuristic evaluation of Melody Scanner reveals several strengths, particular
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From the research conducted by the UX team, the primary demographic the product should be targeted towards are amateur musicians with limited technical skillsets. This means it should be a major priority to make the product simple to understand and use for users of any skill level. Preventing errors and helping the user recover from errors the product is unable to prevent should be of particular focus, as that is an area that the product's main competitor struggled in.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+An unforunate caveat of the UX team's research is the lack of actual user feedback as of the writing of this report, nor has the team had access to any functional prototype of the product. All information used in the creation of this report had to be sourced from members of the UX team. As a result, there is no guarantee that the insights gleaned from this research will completely match the preferences of the actual target demographic.
