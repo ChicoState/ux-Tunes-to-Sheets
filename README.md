@@ -23,21 +23,21 @@
 
 **Executive Summary**
 
-* Competitive analysis shows each option's unique strengths and weaknesses
+* Competitive analysis shows each option's **unique strengths and weaknesses**
 	* Melody Scanner: multiple input/output options, solo instruments only, limited free version
 	* PianoConvert: quick processing, piano only, limited free trial
 	* MuseScore: large library and playback, no conversion, limited free version
 	* Fiverr: Human transcribed music, inconsistent quality and speed
  * Heuristic evaluation of Melody Scanner showed key issues to address
-	* Incongruity between how inexperienced users may expect something to work and how it actually works
-	* Error messages provide little insight into actual source of error
+	* **Incongruity** between how inexperienced users may expect something to work and how it actually works
+	* **Error messages provide little insight** into actual source of error
 	* Limited flexibility, lack of options in conversion process
  * Personas and scenarios further reinforce user preferences
 	* Simple, easily understandable conversion process
-	* Unlimited, free access to all features
+	* **Unlimited, free access** to all features
  * Sketches and diagrams show how new design concepts are being put into practice
 	* Simple, clean, understandable interface
-	* Convenient, instant access to conversion from main screen
+	* Convenient, **instant access to conversion** from main screen
 
 [Full phase I report](phaseI/)
 
