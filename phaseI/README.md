@@ -39,4 +39,4 @@ From the research conducted by the UX team, the primary demographic the product 
 
 ## Caveats
 
-An unforunate caveat of the UX team's research is the lack of actual user feedback as of the writing of this report, nor has the team had access to any functional prototype of the product. All information used in the creation of this report had to be sourced from members of the UX team. As a result, there is no guarantee that the insights gleaned from this research will completely match the preferences of the actual target demographic.
+An unfortunate caveat of the UX team's research is the lack of actual user feedback as of the writing of this report, nor has the team had access to any functional prototype of the product. All information used in the creation of this report had to be sourced from members of the UX team. As a result, there is no guarantee that the insights gleaned from this research will completely match the preferences of the actual target demographic.
