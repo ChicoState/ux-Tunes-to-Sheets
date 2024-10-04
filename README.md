@@ -23,11 +23,6 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
 * Competitive analysis shows each option's unique strengths and weaknesses
 	* Melody Scanner: multiple input/output options, solo instruments only, limited free version
 	* PianoConvert: quick processing, piano only, limited free trial
