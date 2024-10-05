@@ -6,7 +6,7 @@ Tune-to-Sheets is a project focused on developing software that converts instrum
 
 ## UX Team Members
 
-* **[Arnav Jain](!!!https://usabilityengineering.github.io/ux-journal-D3bugo7/!!!)** - Sketches,Analysis,Finding, evaluation
+* **[Arnav Jain](https://usabilityengineering.github.io/ux-journal-D3bugo7/)** - Sketches,Analysis,Finding, evaluation
 * **[Warren Grugett](https://usabilityengineering.github.io/ux-journal-DatHypnoboi/)** - Sketches,Analysis,Findings,evaluation
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!Sketches,Analysis,Finding, evaluation!!!
 
