@@ -1,18 +1,18 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+# Project Name
+
+Tune-to-Sheets is a project focused on developing software that converts instrument sounds into sheet music. The main goal is to help musician, who want an easier way to turn their musical ideas into readable sheet music without struggling with traditional notation tools.
 
 ## UX Team Members
 
-* **[Arnav Jain](!!!https://usabilityengineering.github.io/ux-journal-D3bugo7/!!!)** - !!!Sketches,Analysis,Finding, evaluation !!!
+* **[Arnav Jain](!!!https://usabilityengineering.github.io/ux-journal-D3bugo7/!!!)** - Sketches,Analysis,Finding, evaluation
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!Sketches,Analysis,Findings,evaluation!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!Sketches,Analysis,Finding, evaluation!!!
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
+For the following, add a PDF of your artifact to the repository and replace the # with the file name
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
