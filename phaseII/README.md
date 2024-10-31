@@ -7,7 +7,7 @@ The Tune-to-Sheets project aims to simplify the often complex process of music t
 
 ## Methods
 
-To develop a clearer understanding of user needs and challenges, we employed three research methods:
+To develop a clearer understanding of user needs and challenges, we used two research methods:
 
 **Cognitive Walkthrough.**
 
