@@ -23,6 +23,16 @@
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/fc14e38e971ab8f95ae1e8f59c14ce68a138bd23/wireframes/Wireframe%20-%20Sidemenu.png" width="300"/>
+      <p style="text-align: center;">Side menu on the home page for navigation.</p>
+    </td>
+    <td>
+      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/b4536b840c984a2ac812424d9e6725bb5c4930c6/wireframes/Wireframe%20-%20Sidemenu%20-%20Guest.png" width="300"/>
+      <p style="text-align: center;">Guest view of the side menu on the home page for navigation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/b6eaa03d36a9617ddc40cec4116e174e678a38f8/wireframes/Wireframe%20-%20Record.png" width="600"/>
       <p style="text-align: center;">Recording interface.</p>
     </td>
@@ -69,10 +79,6 @@
     <td>
       <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/b6eaa03d36a9617ddc40cec4116e174e678a38f8/wireframes/Wireframe%20-%20My%20Library.png"/>
       <p style="text-align: center;">The user's personal library.</p>
-    </td>
-  <td>
-      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/fc14e38e971ab8f95ae1e8f59c14ce68a138bd23/wireframes/Wireframe%20-%20Sidemenu.png" width="300"/>
-      <p style="text-align: center;">Side menu on the home page for navigation.</p>
     </td>
   </tr>
   <tr>
