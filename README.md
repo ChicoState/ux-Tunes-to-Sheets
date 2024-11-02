@@ -51,7 +51,7 @@ This phase, the UX team worked on gathering feedback from sources outside of the
 * Cognitive walkthrough showed need for:
 	* Better **feedback** on errors and actions
 	* Better clarity around the **account** system
- 	* Better **guidance**, particularly first-time users
+	* Better **guidance**, particularly first-time users
 * Informal feedback revealed further user desires:
 	* Guest login option (already added)
 	* Playback, editing, tempo and key changes, simplified display mode
