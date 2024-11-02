@@ -45,6 +45,8 @@ For the following, add a PDF of your artifact to the repository and replace the 
 
 **Executive Summary**
 
+This phase, the UX team worked on gathering feedback from sources outside of the team and finalizing wireframes
+
 * Completed wireframes for higher fidelity view of UI
 * Cognitive walkthrough showed need for:
 	* Better **feedback** on errors and actions
