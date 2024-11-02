@@ -45,10 +45,21 @@ For the following, add a PDF of your artifact to the repository and replace the 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Completed wireframes for higher fidelity view of UI
+* Cognitive walkthrough showed need for:
+	* Better **feedback** on errors and actions
+	* Better clarity around the **account** system
+ 	* Better **guidance**, particularly first-time users
+* Informal feedback revealed further user desires:
+	* Guest login option (already added)
+	* Playback, editing, tempo and key changes, simplified display mode
+	* History tracking
+	* Instrument specific adjustments
+ * Planned changes:
+	* Refined **menus and navigation**
+	* Enhanced **account options**
+	* Better user feedback
+	* Improvements to key pages
 
 [Full phase II report](phaseII/)
 
