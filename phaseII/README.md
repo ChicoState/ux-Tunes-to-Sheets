@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Tune-to-Sheets project aims to simplify the often complex process of music transcription by providing a tool that converts audio into readable sheet music. This phase of the project focuses on refining user interactions and designing wireframes based on user feedback. The goal is to enhance usability, intuitiveness, and functionality in response to insights gathered from both internal evaluations and informal feedback sessions. Building on Phase I, which explored competitive analysis, persona development, scenario creation, and UI sketches, this phase targets external perspectives and wireframes designs to inform the next steps in development.
+The Tune-to-Sheets project aims to simplify the often complex process of music transcription by providing a tool that converts audio into readable sheet music. This phase of the project focuses on refining user interactions and designing wireframes based on user feedback. The goal is to enhance usability, intuitiveness, and functionality in response to insights gathered from both internal evaluations and informal feedback sessions. Building on Phase I, which explored competitive analysis, persona and scenario creation, also UI sketches, this phase targets external perspectives and wireframes designs to inform the next steps in development.
 
 
 ## Methods
