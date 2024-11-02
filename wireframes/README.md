@@ -51,7 +51,7 @@
       <p style="text-align: center;">Convert from an audio source.</p>
     </td>
     <td>
-      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/b6eaa03d36a9617ddc40cec4116e174e678a38f8/wireframes/Wireframe%20-%20Convert%20File.png" width="300"/>
+      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/8d7cd91f6eb909999e31f8fdb6408a2d3b6c23fe/wireframes/Wireframe%20-%20Convert%20File.png" width="300"/>
       <p style="text-align: center;">Convert from a file.</p>
     </td>
   </tr>
@@ -61,7 +61,7 @@
       <p style="text-align: center;">Convert from an audio source.</p>
     </td>
     <td>
-      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/b6eaa03d36a9617ddc40cec4116e174e678a38f8/wireframes/Wireframe%20-%20Convert%20URL.png" width="300"/>
+      <img src="https://github.com/ChicoState/ux-Tunes-to-Sheets/blob/8d7cd91f6eb909999e31f8fdb6408a2d3b6c23fe/wireframes/Wireframe%20-%20Convert%20URL.png" width="300"/>
       <p style="text-align: center;">Convert from a URL.</p>
     </td>
   </tr>
