@@ -10,21 +10,21 @@ For this phase, we conducted a usability test with a small group of users to gat
 
 The Tune-to-Sheets Usability Team conducted a Usability Test with n = 5 participants. Prior to testing, the team created the prototype of the Tune-to-Sheets application, developed an Informed Consent Form, generated a Protocol/Script for the usability study, and conducted a Pilot Test with a UX Team member. The Protocol outlined the tasks participants would complete, what data would be collected, and the expected goals of the study.
 
-The usability testing was formative, with an emphasis on evaluating the user experience and identifying pain points. The tasks were designed to test specific features of the app and to determine how efficiently and easily users could perform them.
+Our study employed a formative evaluation approach using a think-aloud protocol. This methodology allowed us to gather qualitative insights into how users interact with the app in real-time, providing a detailed understanding of their thought processes, challenges, and successes. By focusing on formative evaluation, we aimed to identify design flaws and user frustrations early, enabling iterative improvements to the interface. The structured tasks guided participants through key workflows, ensuring comprehensive feedback on essential features. The think-aloud method promoted transparency in user interactions, uncovering nuanced usability issues that might not surface in post-task interviews alone.
 
 Participants were recruited from a class of CSCI 431W students. The only eligibility requirement was that they be over the age of 18. A total of 5 participants agreed to participate in the test.
 
 Each participant completed three primary tasks during the usability test:
-1. Sign-up and convert an audio recording into sheet music.
-2. Record a melody and transcribe it into sheet music for future use.
-3. Export the sheet music as a PDF for sharing.
+1. Task 1 assessed the sign-up process and the ability to upload and convert audio to sheet music. This measured ease of onboarding and interaction design related to data input and processing.
+2. Task 2 focused on recording a melody and generating sheet music, evaluating accessibility, intuitiveness, and system responsiveness for novice and experienced users
+3. Task 3 tested the ability to save and export sheet music in a shareable format, which reflects the functionality and reliability of the app’s output features.
 
 The Moderator began by reading the Informed Consent Form and ensuring the participant understood the study and its purpose. After the consent was obtained, the moderator started the usability test by introducing the tasks. The session was conducted using a think-aloud method, where participants were encouraged to speak their thoughts as they interacted with the app.
 
 Each task followed this process:
 1. The Moderator presented the task and asked the participant to complete it on the prototype.
-2. The Moderator noted any issues, obstacles, or challenges encountered.
-3. Once the task was completed, the Moderator moved on to the next task
+2. The Moderator noted any issues, obstacles, or challenges encountered. The follow-up questions about task difficulty and user preferences aimed to uncover pain points and areas for improvement in terms of usability and user satisfaction.
+3. Once the task was completed, the Moderator moved on to the next task.
 
 Finally, the Debrief session collected qualitative data from the participants. The Moderator asked the users about their experience, what parts of the process they liked or felt needed improvement, and any features they would like to see added.
 
