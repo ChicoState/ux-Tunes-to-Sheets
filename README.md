@@ -17,7 +17,8 @@ For the following, add a PDF of your artifact to the repository and replace the 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototypes/)
+* [Prototype](prototype/)
+* [Protocol](protocol/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
