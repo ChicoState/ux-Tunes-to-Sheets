@@ -6,9 +6,9 @@ Tune-to-Sheets is a project focused on developing software that converts instrum
 
 ## UX Team Members
 
-* **[Arnav Jain](https://usabilityengineering.github.io/ux-journal-D3bugo7/)** - Sketches,Analysis,Finding, evaluation
-* **[Warren Grugett](https://usabilityengineering.github.io/ux-journal-DatHypnoboi/)** - Sketches,Analysis,Findings,evaluation
-* **[Stevie Littleton](https://usabilityengineering.github.io/ux-journal-leonking1990/)** - Sketches,Analysis,Findings,evaluation
+* **[Arnav Jain](https://usabilityengineering.github.io/ux-journal-D3bugo7/)** - Sketches, Analysis, Findings, Evaluation, Prototype design
+* **[Warren Grugett](https://usabilityengineering.github.io/ux-journal-DatHypnoboi/)** - Sketches, Analysis, Findings, Evaluation, Prototype interactivity
+* **[Stevie Littleton](https://usabilityengineering.github.io/ux-journal-leonking1990/)** - Sketches, Analysis, Findings, Evaluation, Prototype design
 
 # User-Centered Design Artifacts
  
@@ -17,7 +17,7 @@ For the following, add a PDF of your artifact to the repository and replace the 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](prototypes/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -69,9 +69,20 @@ This phase, the UX team worked on gathering feedback from sources outside of the
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+This phase, the UX team finalized the app's prototype and conducted usability testing to gather further user feedback
 
+* Completed **interactive prototypes** 
+* Usability Test showed need for:
+	* Improved visual customization
+	* Further improvements in **feedback**
+	* Clarification of **Record** vs **Convert**
+	* Explanation of limitations of a **Guest login**
+	* Implementation of sheet music viewing and editing
+ * Planned changes:
+	* Add **feedback** to more interactions
+	* Add **first-time user explanations** for key features
+	* Add warning when logging in as a Guest
+	* Add sheet music editor and viewer
+ * Future Testing:
+	* Additional usability tests with wider demographics and sample size
 [Full phase III report](phaseIII/)
