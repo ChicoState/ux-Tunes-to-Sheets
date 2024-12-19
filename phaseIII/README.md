@@ -32,6 +32,9 @@ After the test, all data was anonymized and entered into a spreadsheet for furth
 
 ## Findings
 
+**Data Spreadsheet:**
+https://docs.google.com/spreadsheets/d/14gcjJwNTYkxMCjLzWiyXp6a85jUVXZgXZyBJSsmLvyY/edit?usp=sharing
+
 **Task Performance:**
 * Task 1 (Sign-Up and Upload): Completion was successful for most participants, though unclear instructions and initial navigation challenges were noted.
 * Task 2 (Record and Generate Sheet Music): All participants completed the task successfully, with minor confusion between “record” and “convert” options.
