@@ -8,11 +8,11 @@ For this phase, we conducted a usability test with a small group of users to gat
 
 ## Methods
 
-The Tune-to-Sheets Usability Team conducted a Usability Test with n = 5 participants. Prior to testing, the team created the prototype of the Tune-to-Sheets application, developed an Informed Consent Form, generated a Protocol/Script for the usability study, and conducted a Pilot Test with a UX Team member. The Protocol outlined the tasks participants would complete, what data would be collected, and the expected goals of the study.
+The Tune-to-Sheets Usability Team conducted a Usability Test with n = 6 participants. Prior to testing, the team created the prototype of the Tune-to-Sheets application, developed an Informed Consent Form, generated a Protocol/Script for the usability study, and conducted a Pilot Test with a UX Team member. The Protocol outlined the tasks participants would complete, what data would be collected, and the expected goals of the study.
 
 Our study employed a formative evaluation approach using a think-aloud protocol. This methodology allowed us to gather qualitative insights into how users interact with the app in real-time, providing a detailed understanding of their thought processes, challenges, and successes. By focusing on formative evaluation, we aimed to identify design flaws and user frustrations early, enabling iterative improvements to the interface. The structured tasks guided participants through key workflows, ensuring comprehensive feedback on essential features. The think-aloud method promoted transparency in user interactions, uncovering nuanced usability issues that might not surface in post-task interviews alone.
 
-Participants were recruited from a class of CSCI 431W students. The only eligibility requirement was that they be over the age of 18. A total of 5 participants agreed to participate in the test.
+Participants were recruited from a class of CSCI 431W students. The only eligibility requirement was that they be over the age of 18. A total of 6 participants agreed to participate in the test.
 
 Each participant completed three primary tasks during the usability test:
 1. Task 1 assessed the sign-up process and the ability to upload and convert audio to sheet music. This measured ease of onboarding and interaction design related to data input and processing.
@@ -67,4 +67,4 @@ The usability test results indicate that Tune-to-Sheets is a successful prototyp
 
 ## Caveats
 
-The primary limitation of the study was the small sample size (n = 5), which could limit the generalizability of the results. Additionally, the study was conducted with participants who were familiar with music apps, which might not represent the broader user base of Tune-to-Sheets. Future studies should aim for a larger and more diverse sample, including non-musicians to understand broader usability issues.
+The primary limitation of the study was the small sample size (n = 6), which could limit the generalizability of the results. Additionally, the study was conducted with participants who were familiar with music apps, which might not represent the broader user base of Tune-to-Sheets. Future studies should aim for a larger and more diverse sample, including non-musicians to understand broader usability issues.
